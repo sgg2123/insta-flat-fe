@@ -1,0 +1,47 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+#container {
+  width: 970px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.image-container {
+  float:left;
+  padding: 10px;
+}
+
+.image-container > img {
+  width: 300px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+p {
+  text-align: center;
+}
+
+.like-button {
+  width: 40px;
+}
+
+button {
+  width: 100px;
+  margin:auto;
+  display: inline-block;
+}
+
+input {
+  font-size:3rem;
+}
+
+form {
+  margin-bottom:50px;
+}
